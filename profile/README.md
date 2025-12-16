@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://instal-apps-osx.github.io/.github/algoriddimmac">  
+<a href="https://soft-mac-install.github.io/.github/djaypromac">  
 <img src="https://img.shields.io/badge/Get_djay_Pro_for_macOS-darkblue?style=for-the-badge&logo=apple" alt="Get djay Pro for macOS">  
 </a>  
 </div>  
